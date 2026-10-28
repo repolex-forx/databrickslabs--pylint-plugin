@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/databrickslabs/pylint-plugin/commit/b1be1a39703b8d3b693a0afd8a6ee61ff5078cb8",
       "git:hexsha": "b1be1a39703b8d3b693a0afd8a6ee61ff5078cb8",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.5.0"
     },
     {
